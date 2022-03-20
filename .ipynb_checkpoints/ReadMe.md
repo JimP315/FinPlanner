@@ -1,4 +1,8 @@
-# In the personal savings section 
+# In the personal savings section we are wanting to get the total savings of the crypto combined with the share investments. 
+# We are also wanting to get an idea of whether the amount saved will suffice for emergency, ie rainy day purposes
+# By calling in some if statements we are determining whether he has enough funds to provide for 3 months of emergency situation.  
+# this seems to be the case, and yet we tested for whether the amount would be equal to 3 months, or whether it would be insufficient. 
+# You could plug in a large figure say 30 or 50 months and see whether there was sufficient 
 
 
 # For the Monte Carlo sim I have decided to use most up to date data - so 5 years from last week. 
